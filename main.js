@@ -39,4 +39,4 @@ actFriends.forEach((cat) => {
   console.log(cat.activities);
 });
 
-actFriends[1].furcolor = "red";
+actFriends[1].furcolor = "Apricot ";
